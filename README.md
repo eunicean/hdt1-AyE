@@ -1,2 +1,11 @@
-# hdt1-AyE
-Hoja de trabajo 1, clase Algoritmos y estructura de datos
+# Hoja de trabajo 1
+
+Algoritmos y estructura de datos
+
+## Estudiantes:
+
+EUNICE ANAHI MATA IXCAYAU - 212311
+
+IRVING FABRICIO MORALES ACOSTA - 22781
+
+RICARDO ANDRES CHUY MORALES - 221007
